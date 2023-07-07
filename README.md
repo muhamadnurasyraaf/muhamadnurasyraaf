@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadnurasyraaf&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadnurasyraaf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadnurasyraaf" alt="muhamadnurasyraaf" /></a> </p>
-
 - 🔭 I’m currently working on [Docment(Appoinment Booking System)](https://github.com/muhamadnurasyraaf/DocMent.git)
 
 - 🌱 I’m currently learning **React Native,MVC Pattern and Laravel**
