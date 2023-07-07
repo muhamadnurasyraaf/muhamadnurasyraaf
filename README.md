@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhamad Nur Asyraaf</h1>
 <h3 align="center">Crafting Code and Chasing Dreams</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWszdnFydGtqMG9mamVyNG9haHRyanR4bnkxMngwenhxcmM5eHdidCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadnurasyraaf&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadnurasyraaf" /> </p>
 
