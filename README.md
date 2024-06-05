@@ -4,18 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadnurasyraaf&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadnurasyraaf" /> </p>
 
-- 🔭 I’m currently working on [Docment(Appoinment Booking System)](https://github.com/muhamadnurasyraaf/DocMent.git)
-
-- 🌱 I’m currently learning **React Native,MVC Pattern and Laravel**
-
-- 👨‍💻 All of my projects are available at [https://prismatic-panda-a08a4f.netlify.app/](https://prismatic-panda-a08a4f.netlify.app/)
-
-- 💬 Ask me about **Java,PHP**
-
-- 📫 How to reach me **masyraaf14@gmail.com**
-
-- ⚡ Fun fact **I always code average 8 hours a day to learn new things about technology**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhamad nur asyraaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad nur asyraaf" height="30" width="40" /></a>
